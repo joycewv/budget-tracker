@@ -1,7 +1,6 @@
 # My Budget Planner
 
-This project is using react creating a budget tracking app 
-using the Context API!
+This project is using react created a budget tracking app.
 
 ## Screenshot
 
